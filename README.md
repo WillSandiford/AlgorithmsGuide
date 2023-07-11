@@ -1,4 +1,4 @@
-# AlgorithmsGuide
+# Algorithms Guide
 
 This is a collection of most of the algorithms and datastructures taught in UNSW's COMP2521 2022T3.
 
