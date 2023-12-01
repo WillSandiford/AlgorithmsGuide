@@ -13,4 +13,3 @@ This includes:
 - Stack
 - Tree
 
-Beware, there are probably bugs.
